@@ -1,0 +1,6 @@
+newmtl Streetlight_HighRes:Streetlight_HighResSG4
+illum 4
+Kd 0.49 0.45 0.40
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00

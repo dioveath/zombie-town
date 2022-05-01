@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 95803bd876b76e04eb4bc7c2459c7eeb
+timeCreated: 1490796105
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 100
+    100002: 101
+    100004: 102
+    100006: 103
+    100008: 104
+    100010: 105
+    100012: 107
+    100014: 108
+    100016: 109
+    100018: 111
+    100020: 112
+    100022: 113
+    100024: 115
+    100026: 116
+    100028: 117
+    100030: 119
+    100032: 120
+    100034: 121
+    100036: 123
+    100038: 124
+    100040: 125
+    100042: 126
+    100044: 128
+    100046: 129
+    100048: 131
+    100050: 133
+    100052: 134
+    100054: 136
+    100056: 137
+    100058: 138
+    100060: 140
+    100062: 141
+    100064: 142
+    100066: 143
+    100068: 144
+    100070: 145
+    100072: 201
+    100074: 203
+    100076: 301
+    100078: 302
+    100080: 303
+    100082: 304
+    100084: 305
+    100086: 307
+    100088: 308
+    100090: 309
+    100092: 310
+    100094: 311
+    100096: //RootNode
+    100098: Arm_left
+    100100: Arm_right
+    100102: Body
+    100104: Bolt
+    100106: Bullets
+    100108: Magazine
+    100110: Parent_left
+    100112: Parent_right
+    100114: Release
+    100116: SMDImport
+    100118: Trigger
+    400000: 100
+    400002: 101
+    400004: 102
+    400006: 103
+    400008: 104
+    400010: 105
+    400012: 107
+    400014: 108
+    400016: 109
+    400018: 111
+    400020: 112
+    400022: 113
+    400024: 115
+    400026: 116
+    400028: 117
+    400030: 119
+    400032: 120
+    400034: 121
+    400036: 123
+    400038: 124
+    400040: 125
+    400042: 126
+    400044: 128
+    400046: 129
+    400048: 131
+    400050: 133
+    400052: 134
+    400054: 136
+    400056: 137
+    400058: 138
+    400060: 140
+    400062: 141
+    400064: 142
+    400066: 143
+    400068: 144
+    400070: 145
+    400072: 201
+    400074: 203
+    400076: 301
+    400078: 302
+    400080: 303
+    400082: 304
+    400084: 305
+    400086: 307
+    400088: 308
+    400090: 309
+    400092: 310
+    400094: 311
+    400096: //RootNode
+    400098: Arm_left
+    400100: Arm_right
+    400102: Body
+    400104: Bolt
+    400106: Bullets
+    400108: Magazine
+    400110: Parent_left
+    400112: Parent_right
+    400114: Release
+    400116: SMDImport
+    400118: Trigger
+    4300000: SMDImport
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SMDImport
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
